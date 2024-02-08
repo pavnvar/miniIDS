@@ -1,0 +1,19 @@
+{
+    "local_directory": "/home/rin/netfpga/replica/test_dir",
+    "remote_machines": [
+        {
+            "host": "nf9.usc.edu",
+            "username": "netfpga",
+            "password": "eWjEP4+6/S8w",
+            "storage_directory": "/home/netfpga/storage",
+            "directory": "/home/netfpga/test_dir"
+        },
+        {
+            "host": "nf5.usc.edu",
+            "username": "node4",
+            "password": "eWjEP4+6/S8w",
+            "storage_directory": "/home/node4/storage",
+            "directory": "/home/node4/test_dir"
+        }
+    ]
+}
